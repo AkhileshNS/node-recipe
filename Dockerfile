@@ -1,4 +1,4 @@
-FROM node:{{outputs.version}}
+FROM node:{{version}}
 
 WORKDIR /usr/src/app
 
