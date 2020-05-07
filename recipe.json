@@ -1,4 +1,5 @@
 {
+  "name": "NodeJS",
   "entry": ["index.js"],
   "inputs": {
     "version": {
